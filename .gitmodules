@@ -1,0 +1,6 @@
+[submodule "roles"]
+	path = roles
+	url = https://github.com/jasondebolt/chef-roles
+[submodule "data_bags"]
+	path = data_bags
+	url = https://github.com/jasondebolt/chef-data_bags
